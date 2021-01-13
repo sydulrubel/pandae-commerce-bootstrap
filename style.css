@@ -1,0 +1,21 @@
+.panda img{
+    height: 80px;
+}
+.panda{
+    border-radius: 30px;
+}
+.running{
+    background-color: rgb(248, 229, 247);
+    
+}
+.item{
+    border: 0;
+}
+.btn{
+    background-color: rgb(230, 53, 156);
+    border-radius: 10px;
+    border: 0;
+}
+.last{
+    background-color: burlywood;
+}
